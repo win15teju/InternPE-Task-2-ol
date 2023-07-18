@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family:'poppins',sans-serif;
+    
+}
+body{
+    width:60%;
+    position:relative;
+    left:19rem;
+}
+.head1{
+    display:flex;
+    justify-content: space-between;
+    padding:2rem;
+}
+.companyname{
+    color:rgb(68, 68, 237);
+    font-size:2rem;
+    padding-top:4rem;
+}
+.head2{
+    display:flex;
+    justify-content:space-between;
+
+}
+.id{
+    margin-top:1rem;
+    font-size:2.5rem;
+    position:relative;
+    right:4rem;
+   
+    text-decoration:1px underline rgb(68,68,237);
+    text-underline-offset: 0.8rem;
+    
+    
+}
+.offerLetter{
+    font-size:3.5rem;
+    color:rgb(68,68,237);
+    text-decoration:1px underline rgb(68,68,237);
+    text-underline-offset: 1rem;
+
+}
+
+.salutation{
+    font-size:2rem;
+    margin-top:3rem;
+}
+.description{
+    font-size:22px;
+    font-weight:150;
+
+}
+span{
+    font-weight:900;
+    
+}
+.para1,.para2,.para3{
+    margin-top:2rem;
+}
+.footer{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.msme,.cofounder{
+    width:8rem;
+    margin-top:1rem;
+}
+.companylink{
+    display:flex;
+    justify-content:center;
+    font-size:18px;
+    margin-top:1rem;
+}
+hr{
+    width:10%;
+    height:5px;
+    background:rgb(68, 68, 237);
+    margin:0;
+    border:0;
+}
+.hr{
+    position:relative;
+    right:4rem;
+    width:20%;
+}
